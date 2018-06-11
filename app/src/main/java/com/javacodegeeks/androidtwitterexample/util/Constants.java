@@ -12,5 +12,6 @@ public class Constants {
     public static final String TAG_ID = "id";
     public static final String TAG_PROFILE_PICTURE = "profile_picture";
     public static final String TAG_USERNAME = "username";
+    public  int a=10;
 //    public static final String CALLBACK_URL = "instagram://connect";
 }
